@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 C:\xampp\htdocs\AutisticGuide\AutisticGuide
+=======
+C:\Users\hcova\AutisticGuide
+>>>>>>> parent of d861c298 (Merge branch 'main' of https://github.com/VictorHCH/AutisticGuide)
